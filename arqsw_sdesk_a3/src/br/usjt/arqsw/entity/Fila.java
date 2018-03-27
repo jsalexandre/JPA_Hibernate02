@@ -11,7 +11,7 @@ import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 /**
  * 
- * @author asbonato
+ * @author Jessica
  *
  */
 @Entity

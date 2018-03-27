@@ -9,7 +9,11 @@ import javax.persistence.PersistenceContext;
 import org.springframework.stereotype.Repository;
 import br.usjt.arqsw.entity.Chamado;
 import br.usjt.arqsw.entity.Fila;
-
+/**
+ * 
+ * @author Jessica
+ *
+ */
 @Repository
 public class ChamadoDAO {
 	@PersistenceContext

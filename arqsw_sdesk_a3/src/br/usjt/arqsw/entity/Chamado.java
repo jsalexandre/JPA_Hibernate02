@@ -10,7 +10,11 @@ import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
-
+/**
+ * 
+ * @author Jessica
+ *
+ */
 @Entity
 @Table(name="chamado")
 public class Chamado {

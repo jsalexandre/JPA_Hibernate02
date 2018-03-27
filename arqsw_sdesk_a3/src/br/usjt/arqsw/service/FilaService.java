@@ -8,7 +8,11 @@ import org.springframework.stereotype.Service;
 
 import br.usjt.arqsw.dao.FilaDAO;
 import br.usjt.arqsw.entity.Fila;
-
+/**
+ * 
+ * @author Jessica
+ *
+ */
 @Service
 public class FilaService {
 	private FilaDAO dao;

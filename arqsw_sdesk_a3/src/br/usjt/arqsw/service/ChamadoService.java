@@ -12,7 +12,11 @@ import org.springframework.stereotype.Service;
 import br.usjt.arqsw.dao.ChamadoDAO;
 import br.usjt.arqsw.entity.Chamado;
 import br.usjt.arqsw.entity.Fila;
-
+/**
+ * 
+ * @author Jessica
+ *
+ */
 @Service
 public class ChamadoService {
 	ChamadoDAO dao;
